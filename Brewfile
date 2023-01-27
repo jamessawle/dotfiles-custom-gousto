@@ -1,0 +1,8 @@
+tap "shopify/shopify"
+brew "circleci"
+brew "openfortivpn"
+brew "poetry"
+brew "ruby"
+brew "shopify-cli"
+cask "ngrok"
+cask "tableplus"
